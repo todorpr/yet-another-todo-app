@@ -7,8 +7,6 @@ This is a simple Todo app made with React and Firebase.
 
 ###Getting Started###
 
-To get started:
-
 ####Familiar with Git?#####
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
