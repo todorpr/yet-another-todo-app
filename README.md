@@ -1,4 +1,4 @@
-Yet Another Todo App
+Yet Another React Todo App
 ====
 
 This is a simple Todo app made with React and Firebase.
